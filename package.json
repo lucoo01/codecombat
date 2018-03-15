@@ -73,7 +73,7 @@
     "country-list": "0.0.3",
     "express": "^4.14.0",
     "express-useragent": "^1.0.4",
-    "graceful-fs": "~2.0.1",
+    "graceful-fs": "^4.4.11",
     "gridfs-stream": "~1.1.1",
     "json-brunch": "^1.5.4",
     "jsondiffpatch": "^0.2.3",
